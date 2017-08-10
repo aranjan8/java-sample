@@ -195,5 +195,6 @@ If you want to skip the creation steps you can clone the finished sample (withou
 One of the tempalates available at [java.heroku.com](http://java.heroku.com) uses Webapp Runner with Spring MVC. You can clone this template into your Heroku account by going [here](https://api.heroku.com/myapps/template-java-spring-hibernate/clone).
 
 
-hello 
-hi
+#hello 
+#hi
+#Welcome to github
